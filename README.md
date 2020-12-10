@@ -22,7 +22,7 @@ The inputs controller allows to move the control points location at runtime to m
 
 ![bézier 1](https://github.com/vclimpont/parametric-curves/blob/main/Images/bezier1.PNG)
 
-![bézier 2](https://github.com/vclimpont/parametric-curves/blob/main/Images/bezier1.PNG)
+![bézier 2](https://github.com/vclimpont/parametric-curves/blob/main/Images/bezier2.PNG)
 
 # Chaikin curve
 
